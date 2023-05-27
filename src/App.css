@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  vertical-align: baseline;
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  text-decoration: none;
+}
+body {
+  background: linear-gradient(
+    180deg,
+    rgb(64, 154, 238) 0%,
+    rgb(44, 93, 199) 15%,
+    rgb(19, 57, 128) 30%,
+    rgb(10, 17, 81) 45%,
+    rgb(20, 28, 45) 100%
+  );
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 10rem;
+}
+a:hover{
+  color: grey;
+}
