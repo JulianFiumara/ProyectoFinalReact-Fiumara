@@ -9,6 +9,9 @@ La aplicacion consiste en la simulacion de un ecommerce, la cual vas a poder nav
 
 Los productos, las ordenes generadas, y autentificacion se almacenan en Firebase.
 
+Link de demostracion del proyecto:
+https://youtu.be/dHIfVEWXwoQ
+
 Tecnologías utilizadas
 React React Router MUI Firebase
 
@@ -16,6 +19,7 @@ React JS
 React Router Dom
 Material UI
 Firebase
+
 Ejecutar el proyecto
 Para ejecutar el proyecto, el mismo puede descargarse como .zip o git clone.
 
